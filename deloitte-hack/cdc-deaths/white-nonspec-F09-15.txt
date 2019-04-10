@@ -1,0 +1,387 @@
+"Notes"	"Year"	"Year Code"	"Race"	"Race Code"	"Gender"	"Gender Code"	"Cause of death"	"Cause of death Code"	"Census Region"	"Census Region Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Age Adjusted Rate	% of Total Deaths
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 3: South"	"CENS-R3"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 2: Midwest"	"CENS-R2"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 3: South"	"CENS-R3"	39	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.25%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 4: West"	"CENS-R4"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 3: South"	"CENS-R3"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Unspecified diabetes mellitus, without complications"	"E14.9"	"Census Region 3: South"	"CENS-R3"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 3: South"	"CENS-R3"	35	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.23%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 2: Midwest"	"CENS-R2"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 3: South"	"CENS-R3"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 3: South"	"CENS-R3"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 3: South"	"CENS-R3"	30	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.19%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 1: Northeast"	"CENS-R1"	24	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 3: South"	"CENS-R3"	55	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.36%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 4: West"	"CENS-R4"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 1: Northeast"	"CENS-R1"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 2: Midwest"	"CENS-R2"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 3: South"	"CENS-R3"	29	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.19%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 2: Midwest"	"CENS-R2"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 3: South"	"CENS-R3"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 2: Midwest"	"CENS-R2"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 3: South"	"CENS-R3"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 3: South"	"CENS-R3"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 3: South"	"CENS-R3"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 3: South"	"CENS-R3"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 4: West"	"CENS-R4"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Unspecified fall"	"W19"	"Census Region 3: South"	"CENS-R3"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	"Census Region 3: South"	"CENS-R3"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2009"	"2009"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 3: South"	"CENS-R3"	31	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.20%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 1: Northeast"	"CENS-R1"	40	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.26%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 2: Midwest"	"CENS-R2"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 3: South"	"CENS-R3"	38	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.25%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 4: West"	"CENS-R4"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 1: Northeast"	"CENS-R1"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.13%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 3: South"	"CENS-R3"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Unspecified diabetes mellitus, without complications"	"E14.9"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 1: Northeast"	"CENS-R1"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 2: Midwest"	"CENS-R2"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 3: South"	"CENS-R3"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 1: Northeast"	"CENS-R1"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 2: Midwest"	"CENS-R2"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 1: Northeast"	"CENS-R1"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 1: Northeast"	"CENS-R1"	30	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.19%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 3: South"	"CENS-R3"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 1: Northeast"	"CENS-R1"	40	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.26%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 3: South"	"CENS-R3"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 4: West"	"CENS-R4"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 1: Northeast"	"CENS-R1"	86	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.56%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 2: Midwest"	"CENS-R2"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 3: South"	"CENS-R3"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 4: West"	"CENS-R4"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 2: Midwest"	"CENS-R2"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 3: South"	"CENS-R3"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Lobar pneumonia, unspecified"	"J18.1"	"Census Region 1: Northeast"	"CENS-R1"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 2: Midwest"	"CENS-R2"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 3: South"	"CENS-R3"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 4: West"	"CENS-R4"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2010"	"2010"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 1: Northeast"	"CENS-R1"	32	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 2: Midwest"	"CENS-R2"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 3: South"	"CENS-R3"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 1: Northeast"	"CENS-R1"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.13%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm of ovary"	"C56"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm without specification of site"	"C80"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 1: Northeast"	"CENS-R1"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.15%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 2: Midwest"	"CENS-R2"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 3: South"	"CENS-R3"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 1: Northeast"	"CENS-R1"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 3: South"	"CENS-R3"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 1: Northeast"	"CENS-R1"	31	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.20%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 3: South"	"CENS-R3"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 1: Northeast"	"CENS-R1"	106	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.69%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 3: South"	"CENS-R3"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Lobar pneumonia, unspecified"	"J18.1"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 3: South"	"CENS-R3"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 1: Northeast"	"CENS-R1"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 3: South"	"CENS-R3"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2011"	"2011"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 1: Northeast"	"CENS-R1"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 3: South"	"CENS-R3"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"Census Region 1: Northeast"	"CENS-R1"	33	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 1: Northeast"	"CENS-R1"	71	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.46%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 2: Midwest"	"CENS-R2"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 3: South"	"CENS-R3"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 4: West"	"CENS-R4"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 1: Northeast"	"CENS-R1"	45	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.29%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 3: South"	"CENS-R3"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm of ovary"	"C56"	"Census Region 1: Northeast"	"CENS-R1"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm without specification of site"	"C80"	"Census Region 1: Northeast"	"CENS-R1"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Unspecified diabetes mellitus, without complications"	"E14.9"	"Census Region 1: Northeast"	"CENS-R1"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Vascular dementia, unspecified"	"F01.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 1: Northeast"	"CENS-R1"	98	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.63%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 3: South"	"CENS-R3"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 4: West"	"CENS-R4"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Parkinson's disease"	"G20"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 1: Northeast"	"CENS-R1"	43	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.28%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 3: South"	"CENS-R3"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Essential (primary) hypertension"	"I10"	"Census Region 1: Northeast"	"CENS-R1"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 1: Northeast"	"CENS-R1"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 1: Northeast"	"CENS-R1"	60	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.39%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 2: Midwest"	"CENS-R2"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 3: South"	"CENS-R3"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 1: Northeast"	"CENS-R1"	49	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.32%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 3: South"	"CENS-R3"	29	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.19%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 4: West"	"CENS-R4"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 1: Northeast"	"CENS-R1"	155	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.00%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 2: Midwest"	"CENS-R2"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 3: South"	"CENS-R3"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Aortic (valve) stenosis"	"I35.0"	"Census Region 1: Northeast"	"CENS-R1"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Atrial fibrillation and flutter"	"I48"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 1: Northeast"	"CENS-R1"	28	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.18%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 1: Northeast"	"CENS-R1"	34	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.22%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 1: Northeast"	"CENS-R1"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 1: Northeast"	"CENS-R1"	59	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.38%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 3: South"	"CENS-R3"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 4: West"	"CENS-R4"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Extreme immaturity"	"P07.2"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 4: West"	"CENS-R4"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2012"	"2012"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 3: South"	"CENS-R3"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"Census Region 1: Northeast"	"CENS-R1"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	"Census Region 1: Northeast"	"CENS-R1"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 1: Northeast"	"CENS-R1"	44	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.28%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 2: Midwest"	"CENS-R2"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 3: South"	"CENS-R3"	34	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.22%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 1: Northeast"	"CENS-R1"	37	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.24%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 3: South"	"CENS-R3"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Unspecified diabetes mellitus, without complications"	"E14.9"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 1: Northeast"	"CENS-R1"	60	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.39%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 2: Midwest"	"CENS-R2"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 3: South"	"CENS-R3"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 1: Northeast"	"CENS-R1"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.15%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 3: South"	"CENS-R3"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Essential (primary) hypertension"	"I10"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 1: Northeast"	"CENS-R1"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.13%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 2: Midwest"	"CENS-R2"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 1: Northeast"	"CENS-R1"	33	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 2: Midwest"	"CENS-R2"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 3: South"	"CENS-R3"	31	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.20%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 1: Northeast"	"CENS-R1"	37	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.24%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 2: Midwest"	"CENS-R2"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 3: South"	"CENS-R3"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.13%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 4: West"	"CENS-R4"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 1: Northeast"	"CENS-R1"	94	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.61%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 2: Midwest"	"CENS-R2"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 3: South"	"CENS-R3"	29	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.19%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 1: Northeast"	"CENS-R1"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 3: South"	"CENS-R3"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 1: Northeast"	"CENS-R1"	33	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 3: South"	"CENS-R3"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 1: Northeast"	"CENS-R1"	42	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.27%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 2: Midwest"	"CENS-R2"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 3: South"	"CENS-R3"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 4: West"	"CENS-R4"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 4: West"	"CENS-R4"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2013"	"2013"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 3: South"	"CENS-R3"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	"Census Region 1: Northeast"	"CENS-R1"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 1: Northeast"	"CENS-R1"	76	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.49%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 3: South"	"CENS-R3"	42	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.27%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 1: Northeast"	"CENS-R1"	35	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.23%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 3: South"	"CENS-R3"	32	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm of ovary"	"C56"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm without specification of site"	"C80"	"Census Region 1: Northeast"	"CENS-R1"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Unspecified diabetes mellitus, without complications"	"E14.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Unspecified diabetes mellitus, without complications"	"E14.9"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 1: Northeast"	"CENS-R1"	72	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.47%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 2: Midwest"	"CENS-R2"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 3: South"	"CENS-R3"	45	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.29%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 4: West"	"CENS-R4"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 1: Northeast"	"CENS-R1"	34	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.22%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 2: Midwest"	"CENS-R2"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 3: South"	"CENS-R3"	25	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 4: West"	"CENS-R4"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 1: Northeast"	"CENS-R1"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 1: Northeast"	"CENS-R1"	48	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.31%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 3: South"	"CENS-R3"	47	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.30%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 1: Northeast"	"CENS-R1"	42	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.27%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 2: Midwest"	"CENS-R2"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 3: South"	"CENS-R3"	31	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.20%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 4: West"	"CENS-R4"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 1: Northeast"	"CENS-R1"	132	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.85%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 2: Midwest"	"CENS-R2"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 3: South"	"CENS-R3"	34	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.22%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 4: West"	"CENS-R4"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Aortic (valve) stenosis"	"I35.0"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Atrial fibrillation and flutter"	"I48"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 1: Northeast"	"CENS-R1"	24	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 3: South"	"CENS-R3"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 1: Northeast"	"CENS-R1"	25	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 3: South"	"CENS-R3"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 1: Northeast"	"CENS-R1"	24	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 3: South"	"CENS-R3"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	"Census Region 1: Northeast"	"CENS-R1"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 1: Northeast"	"CENS-R1"	40	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.26%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 3: South"	"CENS-R3"	55	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.36%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 4: West"	"CENS-R4"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.13%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Urinary tract infection, site not specified"	"N39.0"	"Census Region 3: South"	"CENS-R3"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 3: South"	"CENS-R3"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 4: West"	"CENS-R4"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	"Census Region 3: South"	"CENS-R3"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 3: South"	"CENS-R3"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2014"	"2014"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 4: West"	"CENS-R4"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 1: Northeast"	"CENS-R1"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Septicaemia, unspecified"	"A41.9"	"Census Region 3: South"	"CENS-R3"	24	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Colon, unspecified - Malignant neoplasms"	"C18.9"	"Census Region 1: Northeast"	"CENS-R1"	26	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Pancreas, unspecified - Malignant neoplasms"	"C25.9"	"Census Region 1: Northeast"	"CENS-R1"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 1: Northeast"	"CENS-R1"	104	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.67%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 2: Midwest"	"CENS-R2"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 3: South"	"CENS-R3"	33	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Bronchus or lung, unspecified - Malignant neoplasms"	"C34.9"	"Census Region 4: West"	"CENS-R4"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.13%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 1: Northeast"	"CENS-R1"	64	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.41%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 2: Midwest"	"CENS-R2"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Breast, unspecified - Malignant neoplasms"	"C50.9"	"Census Region 3: South"	"CENS-R3"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Endometrium - Malignant neoplasms"	"C54.1"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm of ovary"	"C56"	"Census Region 1: Northeast"	"CENS-R1"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Malignant neoplasm without specification of site"	"C80"	"Census Region 1: Northeast"	"CENS-R1"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.15%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Unspecified diabetes mellitus, without complications"	"E14.9"	"Census Region 1: Northeast"	"CENS-R1"	19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Vascular dementia, unspecified"	"F01.9"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 1: Northeast"	"CENS-R1"	147	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.95%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 2: Midwest"	"CENS-R2"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 3: South"	"CENS-R3"	36	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.23%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Unspecified dementia"	"F03"	"Census Region 4: West"	"CENS-R4"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Parkinson's disease"	"G20"	"Census Region 1: Northeast"	"CENS-R1"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 1: Northeast"	"CENS-R1"	57	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.37%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 3: South"	"CENS-R3"	28	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.18%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Alzheimer's disease, unspecified"	"G30.9"	"Census Region 4: West"	"CENS-R4"	25	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Multiple sclerosis"	"G35"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Essential (primary) hypertension"	"I10"	"Census Region 1: Northeast"	"CENS-R1"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease with (congestive) heart failure"	"I11.0"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Hypertensive heart disease without (congestive) heart failure"	"I11.9"	"Census Region 2: Midwest"	"CENS-R2"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 1: Northeast"	"CENS-R1"	91	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.59%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 2: Midwest"	"CENS-R2"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 3: South"	"CENS-R3"	41	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.27%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Acute myocardial infarction, unspecified"	"I21.9"	"Census Region 4: West"	"CENS-R4"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 1: Northeast"	"CENS-R1"	49	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.32%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 2: Midwest"	"CENS-R2"	24	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.16%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 3: South"	"CENS-R3"	28	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.18%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic cardiovascular disease, so described"	"I25.0"	"Census Region 4: West"	"CENS-R4"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 1: Northeast"	"CENS-R1"	138	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.89%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 2: Midwest"	"CENS-R2"	22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 3: South"	"CENS-R3"	33	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atherosclerotic heart disease"	"I25.1"	"Census Region 4: West"	"CENS-R4"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Aortic (valve) stenosis"	"I35.0"	"Census Region 1: Northeast"	"CENS-R1"	17	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.11%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Atrial fibrillation and flutter"	"I48"	"Census Region 1: Northeast"	"CENS-R1"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.15%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 1: Northeast"	"CENS-R1"	32	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.21%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Congestive heart failure"	"I50.0"	"Census Region 3: South"	"CENS-R3"	20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.13%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Intracerebral haemorrhage, unspecified"	"I61.9"	"Census Region 1: Northeast"	"CENS-R1"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 1: Northeast"	"CENS-R1"	61	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.39%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Stroke, not specified as haemorrhage or infarction"	"I64"	"Census Region 3: South"	"CENS-R3"	23	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.15%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 1: Northeast"	"CENS-R1"	54	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.35%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Pneumonia, unspecified"	"J18.9"	"Census Region 3: South"	"CENS-R3"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease with acute lower respiratory infection"	"J44.0"	"Census Region 1: Northeast"	"CENS-R1"	18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.12%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 1: Northeast"	"CENS-R1"	67	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.43%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 2: Midwest"	"CENS-R2"	27	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.17%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 3: South"	"CENS-R3"	36	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.23%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Chronic obstructive pulmonary disease, unspecified"	"J44.9"	"Census Region 4: West"	"CENS-R4"	21	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.14%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Pneumonitis due to food and vomit"	"J69.0"	"Census Region 1: Northeast"	"CENS-R1"	13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Other interstitial pulmonary diseases with fibrosis"	"J84.1"	"Census Region 1: Northeast"	"CENS-R1"	14	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.09%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Chronic kidney disease, stage 5"	"N18.5"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Urinary tract infection, site not specified"	"N39.0"	"Census Region 1: Northeast"	"CENS-R1"	15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Other lack of expected normal physiological development"	"R62.8"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Other ill-defined and unspecified causes of mortality"	"R99"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Unspecified fall"	"W19"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X42"	"Census Region 1: Northeast"	"CENS-R1"	11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.07%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 1: Northeast"	"CENS-R1"	10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.06%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 3: South"	"CENS-R3"	16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.10%
+	"2015"	"2015"	"White"	"2106-3"	"Female"	"F"	"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X44"	"Census Region 4: West"	"CENS-R4"	12	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	0.08%
+"---"
+"Dataset: Underlying Cause of Death, 1999-2015"
+"Query Parameters:"
+"Title: white-nonspec-F09-15"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: Female"
+"Hispanic Origin: Not Stated"
+"ICD-10 Codes: All"
+"Place of Death: All"
+"Race: White"
+"States: All"
+"Ten-Year Age Groups: All"
+"Weekday: All"
+"Year/Month: 2009, 2010, 2011, 2012, 2013, 2014, 2015"
+"Group By: Year, Race, Gender, Cause of death, Census Region"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 6, 2017 11:47:59 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2015 on CDC WONDER Online Database, released December, 2016. Data are from the Multiple Cause of Death Files, 1999-2015, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 6, 2017 11:47:59 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"4. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"5. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"6. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"7. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"8. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"9. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"10. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"11. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015"
+"postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for"
+"year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS"
+"on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012."
+"Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates"
+"of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26,"
+"2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal"
+"series of July 1 estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates"
+"and population figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population"
+"estimates which were available at the time of release."
+"12. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"13. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
